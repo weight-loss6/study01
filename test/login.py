@@ -8,3 +8,5 @@ number4 = 40
 
 number5 =50
 
+number6 = 60
+
